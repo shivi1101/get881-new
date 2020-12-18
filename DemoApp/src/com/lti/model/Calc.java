@@ -13,6 +13,11 @@ public class Calc {
 
 
 	}
+	public void sub(int n1, int n2) {
+		System.out.println("sub= "+(n1-n2));
+
+
+	}
 	
 	
 	
