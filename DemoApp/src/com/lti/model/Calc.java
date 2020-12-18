@@ -2,9 +2,10 @@ package com.lti.model;
 
 public class Calc {
 
-	
-	public void difference(int n3, int n4) {
-		System.out.println("Difference= "+(n3-n4));
+
+	public void add(int n1, int n2) {
+		System.out.println("Summation= "+(n1+n2));
+
 	}
 	
 	
