@@ -7,6 +7,10 @@ public class Calc {
 		System.out.println("Summation= "+(n1+n2));
 
 	}
+	public void product(int n1, int n2) {
+		System.out.println("product= "+(n1*n2));
+
+	}
 	
 	
 	
